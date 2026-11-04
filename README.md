@@ -1,47 +1,60 @@
 # Saloni Ghodechor
 
-Third-year Computer Engineering student in Pune, India, working toward a career as a SOC analyst. I focus on threat detection, log analysis, and defensive security, and I write code in C, C++, Java, and Python.
+**Computer Engineering Student | Aspiring SOC Analyst | Cybersecurity & Open Source**
 
-I build small projects to understand how attacks show up in logs and network traffic, and how to detect and respond to them. I document what I build so the reasoning is easy to follow.
+I am a third-year Computer Engineering student interested in cybersecurity, security operations, and defensive security. My focus areas include log analysis, threat detection, network monitoring, and API security.
+
+I enjoy building practical projects, exploring security concepts in lab environments, and documenting my work to make technical findings understandable.
 
 ---
 
-## Focus areas
+## Areas of Interest
 
-- **Security operations:** alert triage, log analysis, threat detection
-- **Network security:** traffic analysis, common attack patterns, monitoring
-- **API security:** authentication, authorization, common API vulnerabilities
-- **Linux:** command line, system logs, basic administration
+- **Security Operations:** Alert triage, log analysis, threat detection
+- **Network Security:** Network traffic analysis and monitoring
+- **API Security:** Authentication, authorization, and API security fundamentals
+- **Linux Security:** System logs, command-line tools, and basic administration
 
-## Technical skills
+## Technical Skills
 
-| Category | Details |
-|----------|---------|
-| Languages | Python, C, C++, Java |
-| Operating systems | Linux, Windows |
-| Security | Log analysis, threat detection, network monitoring, API security basics |
-| Tools | Git, GitHub <!-- add only tools you have actually used, e.g. Wireshark, Splunk, Nmap --> |
+| Category | Skills |
+|---|---|
+| Programming | C, C++, Java, Python |
+| Operating Systems | Linux, Windows |
+| Cybersecurity | Log Analysis, Threat Detection, Network Monitoring, API Security Fundamentals |
+| Development Tools | Git, GitHub |
 
-## Projects
+## Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Repository name](link) | One sentence on what it does and what it demonstrates. | Python |
-| [Repository name](link) | One sentence on what it does and what it demonstrates. | C++ |
-| [Repository name](link) | One sentence on what it does and what it demonstrates. | Java |
+| Project | Description | Technology |
+|---|---|---|
+| DNS Log Analysis | Investigating DNS logs to understand network activity and identify suspicious patterns. | Python |
+| SOC Monitoring Dashboard | A project focused on presenting security events and monitoring information through a dashboard. | Node.js, EJS, SQLite |
+| API Security Scanner | A tool for checking API security configurations and identifying potential issues. | Python |
+| Book Recommendation System | A rule-based recommendation system that suggests books. | Java |
 
-## Currently learning
+## Currently Learning
 
-- Security monitoring and detection workflows
+- SOC monitoring and incident response workflows
+- Security event analysis and detection techniques
 - Linux system and authentication logs
-- Writing detection logic and documenting findings
+- Practical cybersecurity tools and workflows
+- Open-source collaboration
 
-## Connect
+## GitHub Activity
 
-[LinkedIn](https://www.linkedin.com/in/saloni-g-13323b37b) | [X (Twitter)](https://x.com/saloni404kg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saloni0x404&show_icons=true&hide_border=true&theme=transparent)
 
-I'm open to internships and entry-level opportunities in security operations and cybersecurity, and to collaborating on beginner-friendly open-source projects.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saloni0x404&layout=compact&hide_border=true&theme=transparent)
+
+## Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/saloni-g-13323b37b
+- **GitHub:** https://github.com/saloni0x404
+- **X:** https://x.com/saloni404kg
+
+I am interested in cybersecurity internships, beginner-friendly open-source contributions, and opportunities to learn and collaborate in security operations.
 
 ---
 
-*Security work in my repositories is done in lab environments or on systems I have permission to test.*
+*Security-related experiments and testing in my repositories are conducted in lab environments or on systems where I have permission.*
