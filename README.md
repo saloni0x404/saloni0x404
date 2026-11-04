@@ -1,60 +1,86 @@
 # Saloni Ghodechor
 
-**Computer Engineering Student | Aspiring SOC Analyst | Cybersecurity & Open Source**
+### Computer Engineering Student | Cybersecurity | SOC Operations | Digital Forensics
 
-I am a third-year Computer Engineering student interested in cybersecurity, security operations, and defensive security. My focus areas include log analysis, threat detection, network monitoring, and API security.
+I'm a third-year Computer Engineering student with a strong interest in cybersecurity, security operations, and digital forensics.
 
-I enjoy building practical projects, exploring security concepts in lab environments, and documenting my work to make technical findings understandable.
+I enjoy exploring how security events occur, analyzing logs and network activity, and developing practical projects that strengthen my understanding of defensive security. I also believe in continuous learning, hands-on experimentation, and contributing to the open-source community.
 
 ---
 
 ## Areas of Interest
 
-- **Security Operations:** Alert triage, log analysis, threat detection
-- **Network Security:** Network traffic analysis and monitoring
-- **API Security:** Authentication, authorization, and API security fundamentals
-- **Linux Security:** System logs, command-line tools, and basic administration
+- **Security Operations (SOC):** Security monitoring, alert analysis, threat detection, and incident response.
+- **Digital Forensics:** Digital evidence analysis and forensic investigation fundamentals.
+- **Network Security:** Network traffic analysis, DNS monitoring, and suspicious activity detection.
+- **API Security:** API testing, authentication, authorization, and security assessment.
+- **Linux Security:** System logs, command-line tools, and system administration.
 
 ## Technical Skills
 
-| Category | Skills |
+| Category | Technologies & Skills |
 |---|---|
-| Programming | C, C++, Java, Python |
+| Programming Languages | C, C++, Java, Python |
 | Operating Systems | Linux, Windows |
 | Cybersecurity | Log Analysis, Threat Detection, Network Monitoring, API Security Fundamentals |
-| Development Tools | Git, GitHub |
+| Development | Node.js, EJS, SQLite |
+| Tools | Git, GitHub |
 
 ## Featured Projects
 
-| Project | Description | Technology |
-|---|---|---|
-| DNS Log Analysis | Investigating DNS logs to understand network activity and identify suspicious patterns. | Python |
-| SOC Monitoring Dashboard | A project focused on presenting security events and monitoring information through a dashboard. | Node.js, EJS, SQLite |
-| API Security Scanner | A tool for checking API security configurations and identifying potential issues. | Python |
-| Book Recommendation System | A rule-based recommendation system that suggests books. | Java |
+### 1. DNS Log Analysis
+Analyzing DNS logs to understand network activity and identify potentially suspicious patterns.
 
-## Currently Learning
+**Technologies:** Python, DNS Logs
 
-- SOC monitoring and incident response workflows
-- Security event analysis and detection techniques
-- Linux system and authentication logs
-- Practical cybersecurity tools and workflows
-- Open-source collaboration
+### 2. SOC Monitoring Dashboard
+A security monitoring dashboard project focused on presenting security events and monitoring information.
 
-## GitHub Activity
+**Technologies:** Node.js, EJS, SQLite
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saloni0x404&show_icons=true&hide_border=true&theme=transparent)
+### 3. API Security Scanner
+A Python-based project designed to examine API security configurations and identify potential security issues.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saloni0x404&layout=compact&hide_border=true&theme=transparent)
+**Technologies:** Python
 
-## Connect With Me
+### 4. Book Recommendation System
+A rule-based recommendation system that suggests books based on defined conditions.
 
-- **LinkedIn:** https://www.linkedin.com/in/saloni-g-13323b37b
-- **GitHub:** https://github.com/saloni0x404
-- **X:** https://x.com/saloni404kg
-
-I am interested in cybersecurity internships, beginner-friendly open-source contributions, and opportunities to learn and collaborate in security operations.
+**Technologies:** Java
 
 ---
 
-*Security-related experiments and testing in my repositories are conducted in lab environments or on systems where I have permission.*
+## Currently Exploring
+
+- Security Operations Center (SOC) workflows
+- Digital forensics and incident investigation
+- Security monitoring and threat detection
+- Linux security and system log analysis
+- Open-source cybersecurity projects
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saloni0x404&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni0x404&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/saloni-g-13323b37b">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/saloni0x404">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
+  </a>
+  <a href="https://x.com/saloni404kg">
+    <img src="https://img.shields.io/badge/X-Profile-black?style=flat-square&logo=x" />
+  </a>
+</p>
+
+---
+
+**Open to:** Cybersecurity internships, collaborative projects, and beginner-friendly open-source contributions.
+
+*All security-related experiments and testing are performed in lab environments or on systems where I have permission.*
