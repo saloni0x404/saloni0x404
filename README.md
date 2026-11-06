@@ -79,31 +79,53 @@ My focus is on understanding security events, investigating logs and network act
 ## Featured Projects
 
 ### 01. SOC Monitoring Dashboard
-A web-based security monitoring project designed to organize security events, visualize alerts, and explore SOC monitoring workflows.
+A cybersecurity web application designed to provide a centralized view of security alerts, incidents, logs, and threat activity.
 
-**Technologies:** Node.js · Express · EJS · SQLite
+**Technologies:** JavaScript · Node.js · Express · EJS · SQLite
 
-### 02. DNS Log Analysis
-A cybersecurity investigation project focused on examining DNS logs, understanding query patterns, and identifying potentially suspicious network activity.
+**Repository:** [soc-monitoring-dashboard](https://github.com/saloni0x404/soc-monitoring-dashboard)
 
-**Technologies:** Python · DNS Logs · Log Analysis
+### 02. DNS Log Analysis & Threat Hunting
+A Splunk-based DNS threat hunting project that analyzes Zeek DNS events, establishes activity baselines, and investigates potential reconnaissance behaviour.
 
-### 03. API Security Scanner
-A Python-based project that examines API configurations and identifies potential security weaknesses.
+**Technologies:** Splunk · Zeek · DNS · SPL
 
-**Technologies:** Python · API Security
+**Repository:** [dns-log-analysis-splunk-soc-investigation](https://github.com/saloni0x404/dns-log-analysis-splunk-soc-investigation)
 
-### 04. PCAP Investigation
-A network investigation project focused on examining packet capture data and understanding network communication patterns.
+### 03. Wireshark PCAP Investigation
+A network traffic investigation project analyzing eight PCAP captures, covering DNS, TLS SNI, TCP retransmissions, resets, zero-window stalls, and Nmap scan detection.
 
-**Focus:** Network Traffic Analysis · PCAP Investigation
+**Technologies:** Wireshark · PCAP · Network Analysis
 
-### 05. Book Recommendation System
-A Java-based rule-driven recommendation system that suggests books using predefined conditions and decision logic.
+**Repository:** [wireshark-pcap-investigation](https://github.com/saloni0x404/wireshark-pcap-investigation)
 
-**Technologies:** Java · Rule-Based Logic
+### 04. Wazuh Documentation
+A documentation-focused repository related to Wazuh, a security monitoring and threat detection platform.
+
+**Focus:** Security Monitoring · Wazuh Documentation
+
+**Repository:** [wazuh-documentation](https://github.com/saloni0x404/wazuh-documentation)
+
+### 05. Email System for Visually Impaired Users
+A Python-based assistive email application designed to support hands-free email composition, reading, and management through voice commands.
+
+**Technologies:** Python · Voice Commands
+
+**Repository:** [email-for-visually-impaired](https://github.com/saloni0x404/email-for-visually-impaired)
+
+### 06. Personal Finance Manager
+FinGenius, a personal finance management application designed to help users manage and organize their financial activities.
+
+**Project:** FinGenius
+
+**Repository:** [personal-finance-manager](https://github.com/saloni0x404/personal-finance-manager)
 
 ---
+
+### Additional Projects
+
+- **API Security Scanner:** Python-based API security configuration analysis.
+- **Book Recommendation System:** Java-based rule-driven book recommendation application.
 
 ## Currently Exploring
 
@@ -118,12 +140,15 @@ A Java-based rule-driven recommendation system that suggests books using predefi
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saloni0x404&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni0x404&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages">
-</p>
+I use GitHub to document my learning journey, build practical projects, explore cybersecurity concepts, and contribute to software development.
 
----
+Explore my repositories to see my projects, implementation details, and technical documentation.
+
+<p align="center">
+  <a href="https://github.com/saloni0x404?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
+  </a>
+</p>
 
 ## Let's Connect
 
