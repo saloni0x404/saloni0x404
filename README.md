@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/Chalkboard%20Cybersecurity%20Blueprint.png"
+       width="100%"
+       alt="Cybersecurity Profile Banner">
+</p>
 # Saloni Ghodechor
 
 ### Computer Engineering Student | Cybersecurity | SOC Operations | Digital Forensics
