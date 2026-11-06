@@ -58,13 +58,6 @@ A rule-based recommendation system that suggests books based on defined conditio
 - Linux security and system log analysis
 - Open-source cybersecurity projects
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saloni0x404&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni0x404&layout=compact&hide_border=true&theme=transparent" height="165" />
-</p>
-
 ## Connect With Me
 
 <p>
