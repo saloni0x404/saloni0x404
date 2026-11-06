@@ -3,7 +3,7 @@
        width="100%"
        alt="Cybersecurity Profile Banner">
 </p>
-# Saloni Ghodechor
+### Saloni Ghodechor
 
 ### Computer Engineering Student | Cybersecurity | SOC Operations | Digital Forensics
 
